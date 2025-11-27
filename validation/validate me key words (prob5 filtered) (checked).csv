@@ -1,4 +1,4 @@
-url,parent_url,postcodes,cc_url,content,humanKeyword,note
+url,parent_url,postcodes,cc_url,content,meng_keyword,helena_keyword,copilot_summary,copilot_keyword,comparison_notes
 https://www.gov.uk/government/organisations/office-of-hm-paymaster-general,www.gov.uk,[],https://data.commoncrawl.org/crawl-data/CC-MAIN-2025-43/segments/1759648359004.73/wet/CC-MAIN-20251013203450-20251013233450-00348.warc.wet.gz,"office of hm paymaster general - gov.uk
 cookies on gov.uk
 we use some essential cookies to make this website work.
@@ -117,7 +117,8 @@ rhestr o wasanaethau cymraeg
 government digital service
 all content is available under the open government licence v3.0, except where otherwise stated
 © crown copyright
-",Government banking service+closed,just a news notice
+",Government banking service+closed,"Office of the Paymaster General, Government Banking Service","Closed in 2008 and merged into the Government Banking Service. Page notes closure and references past policy papers, including a 2009 government response to the Welsh Affairs Select Committee.","closure, Government Banking Service, policy paper, Welsh Affairs Select Committee, 2009","welsh affair in related policy
+"
 https://www.gov.uk/government/organisations/office-of-the-immigration-services-commissioner,www.gov.uk,[],https://data.commoncrawl.org/crawl-data/CC-MAIN-2025-43/segments/1759648358166.29/wet/CC-MAIN-20251006032620-20251006062620-00097.warc.wet.gz,"office of the immigration services commissioner - gov.uk
 cookies on gov.uk
 we use some essential cookies to make this website work.
@@ -266,7 +267,7 @@ rhestr o wasanaethau cymraeg
 government digital service
 all content is available under the open government licence v3.0, except where otherwise stated
 © crown copyright
-",oisc+regulator,
+",oisc+regulator,"Office of the Immigration Services Commissioner (OISC),  Immigration Advice Authority, is now called, ","Now called the Immigration Advice Authority. Regulates immigration advisers to ensure competence and client protection. Provides guidance on becoming regulated, publishes codes of standards, enforces against unregulated advisers, and issues annual reports.","Immigration Advice Authority, regulation, immigration advisers, code of standards, complaints scheme, enforcement, annual report",
 https://www.gov.uk/government/organisations/skills-england,www.gov.uk,['CV1 2WT'],https://data.commoncrawl.org/crawl-data/CC-MAIN-2025-43/segments/1759648359174.55/wet/CC-MAIN-20251014122347-20251014152347-00496.warc.wet.gz,"skills england - gov.uk
 cookies on gov.uk
 we use some essential cookies to make this website work.
@@ -507,7 +508,7 @@ rhestr o wasanaethau cymraeg
 government digital service
 all content is available under the open government licence v3.0, except where otherwise stated
 © crown copyright
-",skills england,
+",skills england,"Skills England, better skills for better jobs, enabling growth and opportunity, executive agency, Department for Education","Executive agency sponsored by the Department for Education. Focuses on skills development, apprenticeships, and technical qualifications. Publishes research on future skills needs to 2030, employer skills surveys, and strategies such as the UK�s modern industrial strategy and financial services competitiveness plan.","skills, apprenticeships, technical qualifications, industrial strategy, financial services competitiveness, priority sectors, board governance",taking apprenticship from signposting links -- not focussed on apprenticeships
 https://www.gov.uk/government/organisations/department-of-health-and-social-care,www.gov.uk,['SW1H 0EU'],https://data.commoncrawl.org/crawl-data/CC-MAIN-2025-43/segments/1759648664048.78/wet/CC-MAIN-20251016145047-20251016175047-00311.warc.wet.gz,"department of health and social care - gov.uk
 cookies on gov.uk
 we use some essential cookies to make this website work.
@@ -799,7 +800,7 @@ rhestr o wasanaethau cymraeg
 government digital service
 all content is available under the open government licence v3.0, except where otherwise stated
 © crown copyright
-",health and social care+press release,
+",health and social care+press release,"support ministers, nation�s health and social care, live more independent, healthier lives for longer, ministerial department, supported by, agencies and public bodies","Oversees health and social care. Recent press releases include funding for children�s hospices, campaigns against drug misuse, GP access reforms, and regulation of vapes/tobacco. Publishes statutory guidance (SEND Code of Practice, NHS Constitution), consultations (puberty blockers, tobacco legislation), and spending transparency data.","health, social care, hospices funding, drug misuse campaign, GP access, vapes regulation, SEND Code of Practice, NHS Constitution, consultations",signposting links
 https://www.gov.uk/government/organisations/natural-england/about/our-governance,www.gov.uk,[],https://data.commoncrawl.org/crawl-data/CC-MAIN-2025-43/segments/1759648358668.17/wet/CC-MAIN-20251011090820-20251011120820-00497.warc.wet.gz,"our governance - natural england - gov.uk
 cookies on gov.uk
 we use some essential cookies to make this website work.
@@ -1000,7 +1001,7 @@ rhestr o wasanaethau cymraeg
 government digital service
 all content is available under the open government licence v3.0, except where otherwise stated
 © crown copyright
-",governance+ nature england+board,
+",governance+ nature england+board,"Natural England, non-departmental public body (NDPB), sponsor department, Defra, cross-government, arm�s length bodies, purpose and status, governance, accountability, Parliament, stakeholders, public money, decision making body, Board","Non?departmental public body established by the Natural Environment and Rural Communities Act 2006. Governance through a board and committees, responsible for strategy, risk management, and use of public money. Committees include audit and risk, science advisory, social science expert panel, remuneration, and landscape advisory.","Natural England, governance, board, committees, risk management, science advisory, landscape, public money, Tony Juniper, Marian Spain",maybe names aren't keyword
 https://www.gov.uk/government/organisations/national-citizen-service,www.gov.uk,[],https://data.commoncrawl.org/crawl-data/CC-MAIN-2025-43/segments/1759648663798.77/wet/CC-MAIN-20251016113935-20251016143935-00959.warc.wet.gz,"national citizen service - gov.uk
 cookies on gov.uk
 we use some essential cookies to make this website work.
@@ -1139,7 +1140,7 @@ rhestr o wasanaethau cymraeg
 government digital service
 all content is available under the open government licence v3.0, except where otherwise stated
 © crown copyright
-",national civil service trust+closed+young people,
+",national civil service trust+closed+young people," National Citizen Service, Trust, National Youth Guarantee, empower, Royal Charter Body status, opportunities, develop key skills, valuable skills, operational, closed down",,,
 https://www.gov.uk/government/organisations/legal-aid-agency/about,www.gov.uk,[],https://data.commoncrawl.org/crawl-data/CC-MAIN-2025-43/segments/1759648359478.59/wet/CC-MAIN-20251015164442-20251015194442-00802.warc.wet.gz,"about us - legal aid agency - gov.uk
 cookies on gov.uk
 we use some essential cookies to make this website work.
@@ -1283,7 +1284,7 @@ rhestr o wasanaethau cymraeg
 government digital service
 all content is available under the open government licence v3.0, except where otherwise stated
 © crown copyright
-",legal aid+england+civil legal aid service,
+",legal aid+england+civil legal aid service,"civil and criminal legal aid, advice, England, Wales, help people, legal problems, general public, annual report, independent decision-making, services, partners, policy, personal information",,,
 https://www.gov.uk/government/organisations/nuclear-decommissioning-authority/about,www.gov.uk,[],https://data.commoncrawl.org/crawl-data/CC-MAIN-2025-43/segments/1759648663606.90/wet/CC-MAIN-20251016083149-20251016113149-00289.warc.wet.gz,"about us - nuclear decommissioning authority - gov.uk
 cookies on gov.uk
 we use some essential cookies to make this website work.
@@ -1458,7 +1459,7 @@ rhestr o wasanaethau cymraeg
 government digital service
 all content is available under the open government licence v3.0, except where otherwise stated
 © crown copyright
-",nuclear decomissioning+energy act 2004+desnz,
+",nuclear decomissioning+energy act 2004+desnz,"on behalf of government, decommissioning, mission, safely, securely, cost effectively, decommissioning, programmes, remediation, environmentally responsible, tax payer, best value, strategy, global leader, sector, evolving, non-departmental public body, Department for Energy, Department for Security, Department for Net Zero (DESNZ), Scottish ministers, subsidiaries",,,
 https://www.gov.uk/government/organisations/companies-house/about/about-our-services,www.gov.uk,[],https://data.commoncrawl.org/crawl-data/CC-MAIN-2025-43/segments/1759648667491.87/wet/CC-MAIN-20251018220658-20251019010658-00372.warc.wet.gz,"about our services - companies house - gov.uk
 cookies on gov.uk
 we use some essential cookies to make this website work.
@@ -1711,7 +1712,7 @@ rhestr o wasanaethau cymraeg
 government digital service
 all content is available under the open government licence v3.0, except where otherwise stated
 © crown copyright
-",companies house+Authorised Corporate Service Providers,
+",companies house+Authorised Corporate Service Providers,"  services, standards, Companies House, Register, Registry, Search, certified copy, document",,,
 https://www.gov.uk/government/organisations/uk-national-screening-committee,www.gov.uk,['SW1H 0EU'],https://data.commoncrawl.org/crawl-data/CC-MAIN-2025-43/segments/1759648358757.89/wet/CC-MAIN-20251012100427-20251012130427-00864.warc.wet.gz,"uk national screening committee - gov.uk
 cookies on gov.uk
 we use some essential cookies to make this website work.
@@ -1958,7 +1959,7 @@ rhestr o wasanaethau cymraeg
 government digital service
 all content is available under the open government licence v3.0, except where otherwise stated
 © crown copyright
-",UK NSC+NHS+screening,
+",UK NSC+NHS+screening,"UK National Screening Committee (UK NSC), advises ministers, advises the NHS, 4 UK countries, implementation, screening programmes, Department of Health and Social Care, the Welsh Government, The Scottish Government, Department of Health (Northern Ireland).",,,
 https://www.gov.uk/government/organisations/uk-space-agency,www.gov.uk,['OX11 0DF'],https://data.commoncrawl.org/crawl-data/CC-MAIN-2025-43/segments/1759648358509.4/wet/CC-MAIN-20251009224006-20251010014006-00161.warc.wet.gz,"uk space agency - gov.uk
 cookies on gov.uk
 we use some essential cookies to make this website work.
@@ -2220,7 +2221,7 @@ rhestr o wasanaethau cymraeg
 government digital service
 all content is available under the open government licence v3.0, except where otherwise stated
 © crown copyright
-","uk space agency+Department for Science, Innovation and Technology.",
+","uk space agency+Department for Science, Innovation and Technology.",,,,
 https://www.gov.uk/government/organisations/homes-england/about/our-governance,www.gov.uk,[],https://data.commoncrawl.org/crawl-data/CC-MAIN-2025-43/segments/1759648358509.4/wet/CC-MAIN-20251009224006-20251010014006-00310.warc.wet.gz,"our governance - homes england - gov.uk
 cookies on gov.uk
 we use some essential cookies to make this website work.
@@ -2407,7 +2408,7 @@ rhestr o wasanaethau cymraeg
 government digital service
 all content is available under the open government licence v3.0, except where otherwise stated
 © crown copyright
-","home england+ Secretary of State for the Ministry of Housing, Communities and Local Government (MHCLG) + board+ governance",
+","home england+ Secretary of State for the Ministry of Housing, Communities and Local Government (MHCLG) + board+ governance",,,,
 https://www.gov.uk/government/organisations/hm-revenue-customs,www.gov.uk,['NE98 1ZZ'],https://data.commoncrawl.org/crawl-data/CC-MAIN-2025-43/segments/1759648663798.77/wet/CC-MAIN-20251016113935-20251016143935-00155.warc.wet.gz,"hm revenue & customs - gov.uk
 cookies on gov.uk
 we use some essential cookies to make this website work.
@@ -2692,7 +2693,7 @@ rhestr o wasanaethau cymraeg
 government digital service
 all content is available under the open government licence v3.0, except where otherwise stated
 © crown copyright
-",hmrc+tax+payment,
+",hmrc+tax+payment,,,,
 https://www.gov.uk/government/organisations/uk-national-screening-committee,www.gov.uk,['SW1H 0EU'],https://data.commoncrawl.org/crawl-data/CC-MAIN-2025-43/segments/1759648359174.55/wet/CC-MAIN-20251014122347-20251014152347-00864.warc.wet.gz,"uk national screening committee - gov.uk
 cookies on gov.uk
 we use some essential cookies to make this website work.
@@ -2939,7 +2940,7 @@ rhestr o wasanaethau cymraeg
 government digital service
 all content is available under the open government licence v3.0, except where otherwise stated
 © crown copyright
-",,
+",,,,,
 https://www.gov.uk/government/organisations/department-for-international-trade,www.gov.uk,[],https://data.commoncrawl.org/crawl-data/CC-MAIN-2025-43/segments/1759648666184.96/wet/CC-MAIN-20251018092918-20251018122918-00400.warc.wet.gz,"department for international trade - gov.uk
 cookies on gov.uk
 we use some essential cookies to make this website work.
@@ -3098,7 +3099,7 @@ rhestr o wasanaethau cymraeg
 government digital service
 all content is available under the open government licence v3.0, except where otherwise stated
 © crown copyright
-",,
+",,,,,
 https://www.gov.uk/government/organisations/department-for-international-trade,www.gov.uk,[],https://data.commoncrawl.org/crawl-data/CC-MAIN-2025-43/segments/1759648358734.56/wet/CC-MAIN-20251012004438-20251012034438-00400.warc.wet.gz,"department for international trade - gov.uk
 cookies on gov.uk
 we use some essential cookies to make this website work.
@@ -3257,7 +3258,7 @@ rhestr o wasanaethau cymraeg
 government digital service
 all content is available under the open government licence v3.0, except where otherwise stated
 © crown copyright
-",,
+",,,,,
 https://www.gov.uk/government/organisations/independent-living-fund/about/complaints-procedure,www.gov.uk,['NG2 4LA'],https://data.commoncrawl.org/crawl-data/CC-MAIN-2025-43/segments/1759648665106.66/wet/CC-MAIN-20251017094323-20251017124323-00379.warc.wet.gz,"complaints procedure - independent living fund - gov.uk
 cookies on gov.uk
 we use some essential cookies to make this website work.
@@ -3438,7 +3439,7 @@ rhestr o wasanaethau cymraeg
 government digital service
 all content is available under the open government licence v3.0, except where otherwise stated
 © crown copyright
-",,
+",,,,,
 https://www.gov.uk/government/organisations/parole-board,www.gov.uk,['E14 4PU'],https://data.commoncrawl.org/crawl-data/CC-MAIN-2025-43/segments/1759648358259.69/wet/CC-MAIN-20251006222010-20251007012010-00378.warc.wet.gz,"parole board - gov.uk
 cookies on gov.uk
 we use some essential cookies to make this website work.
@@ -3741,7 +3742,7 @@ rhestr o wasanaethau cymraeg
 government digital service
 all content is available under the open government licence v3.0, except where otherwise stated
 © crown copyright
-",,
+",,,,,
 https://www.gov.uk/government/organisations/marine-accident-investigation-branch/about,www.gov.uk,[],https://data.commoncrawl.org/crawl-data/CC-MAIN-2025-43/segments/1759648358124.83/wet/CC-MAIN-20251005210857-20251006000857-00216.warc.wet.gz,"about us - marine accident investigation branch - gov.uk
 cookies on gov.uk
 we use some essential cookies to make this website work.
@@ -3900,7 +3901,7 @@ rhestr o wasanaethau cymraeg
 government digital service
 all content is available under the open government licence v3.0, except where otherwise stated
 © crown copyright
-",,
+",,,,,
 https://www.gov.uk/government/organisations/uk-space-agency,www.gov.uk,['OX11 0DF'],https://data.commoncrawl.org/crawl-data/CC-MAIN-2025-43/segments/1759648666184.96/wet/CC-MAIN-20251018092918-20251018122918-00161.warc.wet.gz,"uk space agency - gov.uk
 cookies on gov.uk
 we use some essential cookies to make this website work.
@@ -4162,4 +4163,4 @@ rhestr o wasanaethau cymraeg
 government digital service
 all content is available under the open government licence v3.0, except where otherwise stated
 © crown copyright
-",,
+",,,,,
