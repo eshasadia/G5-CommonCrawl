@@ -1,4 +1,5 @@
 ## validation
+## save a small section to validate by hand
 
 library(tidyverse)
 

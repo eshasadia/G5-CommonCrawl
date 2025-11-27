@@ -9,3 +9,9 @@ Presentation: https://livewarwickac-my.sharepoint.com/:p:/g/personal/u5552013_li
 ## Task/ folder
 
 `validation`: Validation file of 20 url contents (2025). Helena and Meng Le picked out keyword independently. Also sent to copilot to check accuracy and agreement between human/llm
+
+## data
+
+`news_filtered_xxxx.csv`: Filtered file from 2024/2025 crawl. Filtered to urls that contain `gov.uk/government/news`. Produced by code in `FilterURL.py` where polars is used to check url first before reading in lines.
+
+
