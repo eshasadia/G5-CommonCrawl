@@ -1,8 +1,8 @@
 # Bristol CommonCrawl Datathon Repository
 
 # Requires
-- python for data wrangling and classification
-- R for some data viz and some proto-type scripts (e.g. making API calls to LLMs)
+- Python for data wrangling and classification
+- R for some data visualisation and some proto-type scripts (e.g. making API calls to LLMs)
 
 ## Task/ folder
 
