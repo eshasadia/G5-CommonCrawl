@@ -5,9 +5,11 @@ layout: default
 
 # Who are we? 
 
-We are a group of data scientists at a datathon using commoncrawl data to solve a problem hosted by Bristol University and the commoncrawl project (link)[https://www.urbaneconomies.co.uk/datathon.html#datathon-materials].
+We are a group of data scientists at a datathon using commoncrawl data to solve a problem hosted by Bristol University and the [commoncrawl project](https://www.urbaneconomies.co.uk/datathon.html#datathon-materials).
 
 This repository contains all our code.
+
+Our team members: Meng Le Zhang, Aditi Dutta, Esha Sadia Nasir, Mariam Cook, Helena Byrne and Wong E Chern.
 
 # What was the datathon problem?
 
