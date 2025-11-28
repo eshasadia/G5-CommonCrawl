@@ -7,12 +7,9 @@ This is a cache of web data, which contains all the UK governmental webpages (.g
 We are a group of data scientists at a datathon using commoncrawl data to solve a problem
 
 
-
-This repository contains all our code.
-
 # Methods
 To tackle the problem, we first:
-- Targeted our searched. We had 2.4 million website entries in the raw WET file. To look at policies, we explicitly filtered our data to website in the `gov.uk/government/news` subdomain. This is where new policies are announced. This gives us roughly to 3000 webpages. 
+- Targeted our searched. we had 2.4 million website entries in the raw WET file. To look at policies, we explicitly filtered our data to website in the `gov.uk/government/news` subdomain. This is where new policies are announced. This gives us roughly to 3000 webpages. 
 
 
 To analyse the webiste content, we took two approach:
