@@ -1,9 +1,23 @@
-# G5-CommonCrawl
+# Bristol common crawl datathon repository (G5-CommonCrawl)
 
-Access to VM: https://bdfi.atlassian.net/wiki/external/OTY3MjIxYTc2NjFhNDhjZTk5NzIzMjY1YWJlNGU1NTQ
+We are a group of data scientists at a datathon using commoncrawl data to solve a problem:
 
-Presentation: https://livewarwickac-my.sharepoint.com/:p:/g/personal/u5552013_live_warwick_ac_uk/IQAO_X-5AL-UR6hv6A1eKt4SAXkzxACUuJMgJ5pHpYVU1bg?e=YuHmoA
+> This is a cache of web data, which contains all the UK governmental webpages (.gov.uk) that have been archived by the Common Crawl in two points in time: February-March 2024 (part 1 and part 2 same as Problem 4) and October 2025. Identify changes in a specific policy domain associated with the new government elected in July 2024.
 
+This repository contains all our code.
+
+To tackle the problem, we first:
+- Targeted our searched. We had 2.4 million website entries in the raw WET file. To look at policies, we explicitly filtered our data to website in the `gov.uk/government/news` subdomain. This is where new policies are announced. This gives us roughly to 3000 webpages. 
+
+
+To analyse the webiste content, we took two approach:
+- Target approached. We had a 'seed' of 12 policy names or terms. We filtered our data to only webpages that mentioned these terms. Then we generated embeddings to look at differences in context for the same terms across time.
+- LLM approach to read documents and classify any policy instruments into certain categories. Then we compared differences in classifications over time. 
+
+# Results
+
+
+# Classifications:
 
 
 ## Task/ folder

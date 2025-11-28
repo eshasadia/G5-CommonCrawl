@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Bristol common crawl datathon repository (G5-CommonCrawl)
 
 We are a group of data scientists at a datathon using commoncrawl data to solve a problem:

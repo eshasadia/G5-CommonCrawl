@@ -1,5 +1,5 @@
 ## plots of data to save 
-library(tidyverse)
+library(dplyr)
 library(plotly)
 
 n_sample = 100
@@ -15,10 +15,13 @@ df
 
 library(ggplot2)
 library(plotly)
+library(htmlwidgets)
 
 gg_version = 
   ggplot(df, aes(y = main.classification, fill = time, group = time)) +
-  geom_bar(position = )
+  geom_bar(position = position_dodge())
 
-gg_version %>% ggplotly()
+
+## save by hand
+gg_version %>% ggplotly() %>% htmlwidgets::saveWidget('docs/example plot.html')
 ?ggplotly
