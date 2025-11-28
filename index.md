@@ -28,11 +28,13 @@ To analyse the webiste content, we took two approach:
 
 ## Classifications:
 
-<iframe src="docs/classification 2024 vs 2025.html" width="800" height="600" style="border:none;"></iframe>
-
 <iframe src="docs/policy type over time.html" width="800" height="600" style="border:none;"></iframe>
 
-This plot shows the difference over time in the types of policy instruments that are announced. Following the general election, we find a XXXX 
+This plot shows the difference over time in the types of policy instruments that are announced. We use data from 2739 LLM classified webpages. 
+
+<iframe src="docs/classification 2024 vs 2025.html" width="800" height="600" style="border:none;"></iframe>
+
+We found that the `gov.uk/government/news` website included webpages from before 2024 so we had to filter by the year a page is published.
 
 ## Embediing
 
