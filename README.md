@@ -15,3 +15,15 @@ Presentation: https://livewarwickac-my.sharepoint.com/:p:/g/personal/u5552013_li
 `news_filtered_xxxx.csv`: Filtered file from 2024/2025 crawl. Filtered to urls that contain `gov.uk/government/news`. Produced by code in `FilterURL.py` where polars is used to check url first before reading in lines.
 
 
+## test embedded graph
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Embedding Plotly Chart</title>
+</head>
+<body>
+  <h2>My Plotly Chart</h2>
+  <iframe src="docs/example plot.html" width="800" height="600" style="border:none;"></iframe>
+</body>
+</html>
