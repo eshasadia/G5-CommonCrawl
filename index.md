@@ -5,7 +5,7 @@ title: Home
 
 # Who are we? 
 
-We are a group of data scientists at a datathon using commoncrawl data to solve a problem hosted by Bristol University (link)[https://www.urbaneconomies.co.uk/datathon.html#datathon-materials].
+We are a group of data scientists at a datathon using commoncrawl data to solve a problem hosted by Bristol University and the commoncrawl project (link)[https://www.urbaneconomies.co.uk/datathon.html#datathon-materials].
 
 This repository contains all our code.
 
@@ -22,13 +22,15 @@ To tackle the problem, we first:
 
 To analyse the webiste content, we took two approach:
 - Target approached. We had a 'seed' of 12 policy names or terms. We filtered our data to only webpages that mentioned these terms. Then we generated embeddings to look at differences in context for the same terms across time.
-- LLM approach to read documents and classify any policy instruments into certain categories. Then we compared differences in classifications over time. 
+- LLM approach to read documents and classify any policy instruments into certain categories (used over a VM supplied by datathon). Then we compared differences in classifications over time. 
 
 # What did we find:
 
 ## Classifications:
 
-<iframe src="docs/example plot.html" width="800" height="600" style="border:none;"></iframe>
+<iframe src="docs/classification 2024 vs 2025.html" width="800" height="600" style="border:none;"></iframe>
+
+<iframe src="docs/policy type over time.html" width="800" height="600" style="border:none;"></iframe>
 
 This plot shows the difference over time in the types of policy instruments that are announced. Following the general election, we find a XXXX 
 
