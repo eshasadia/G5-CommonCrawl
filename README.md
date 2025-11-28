@@ -2,17 +2,31 @@
 This repository contains the workflow, data, and analysis code produced by Group 5 for the Bristol Datathon on Common Crawl. Our project investigates policy change within the “Creating Opportunities / Breaking Down Barriers to Opportunity” mission, focusing specifically on the Best Start in Life agenda.
 
 Using archived .gov.uk webpages from Feb–Mar 2024 and Oct 2025, we apply text processing, embedding-based semantic comparison, and clustering to identify how the discourse around early-years policy has shifted following the UK General Election (July 2024).
+# Bristol CommonCrawl Datathon Repository
+
+## Problem Statement
+This is a cache of web data, which contains all the UK governmental webpages (.gov.uk) that have been archived by the Common Crawl in two points in time: February-March 2024 (part 1 and part 2 same as Problem 4) and October 2025. Identifying changes in a specific policy domain associated with the new government elected in July 2024.
+
+## Team
+Meng Le Zhang, Aditi Dutta, Esha Sadia Nasir, Mariam Cook, Helena Byrne, E Chern Wong.
+
+
+## Requires
+- Python for data wrangling and classification.
+- R for some data visualisation and some proto-type scripts (e.g. making API calls to LLMs).
 
 ## Team Members
 Meng Le Zhang
 
 Aditi Dutta
+- `validation`: Validation file of 20 url contents (2025). Helena and Meng Le picked out keyword independently. Also sent to copilot to check accuracy and agreement between human/LLM.
 
 Esha Sadia Nasir
 
 Mariam Cook
 
 Helena Byrne
+## Data
 
 E Chern Wong
 
@@ -23,6 +37,13 @@ We analysed a large cache of UK governmental webpages extracted from the Common 
 Our workflow included:
 
 1. URL identification for domains associated with early-years policy.
+- `policy_classes_xxx`: Contents classified but using a LLM (Gemma 3) on VM.
+
+- `\classified`: Contents classified but this time using a LLM on Groq (llama3.1) on colab.
+
+## Test embedded graph
+
+## My Report
 
 2. Keyword-driven filtering to extract relevant text spans from large .csv datasets.
 

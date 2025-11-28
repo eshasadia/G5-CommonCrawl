@@ -1,13 +1,15 @@
 ---
+title: "Home"
 layout: default
-title: Home
 ---
 
 # Who are we? 
 
-We are a group of data scientists at a datathon using commoncrawl data to solve a problem hosted by Bristol University and the commoncrawl project (link)[https://www.urbaneconomies.co.uk/datathon.html#datathon-materials].
+We are a group of data scientists at a datathon using commoncrawl data to solve a problem hosted by Bristol University and the [commoncrawl project](https://www.urbaneconomies.co.uk/datathon.html#datathon-materials).
 
 This repository contains all our code.
+
+Our team members: Meng Le Zhang, Aditi Dutta, Esha Sadia Nasir, Mariam Cook, Helena Byrne and Wong E Chern.
 
 # What was the datathon problem?
 
@@ -69,12 +71,29 @@ Digital literacy
 Clean air
 ```
 
-We found xxx that mentions etc etc
+![seeded comparison](<docs/seeded comparison.jpg>)
+
+![human checks](<docs/helena pie chart.png>)
+Helena manually checked the websites to check the frequency of policy mentions.
 
 
-## Other findings
+![alt text](<docs/cosine similarity.jpg>)
 
-We also human validated the LLM results/ classifications. We found XXX
+Cosine similarity shows the similarity of the context that the words are mentioned in.
+
+![pca subject](docs/pca.jpg)
+
+Best Start in Life is closer to Family Hubs. This is likely due to announcement of FH under BSIL mission and renewed funding for Family Hubs. 
+
+## What else we tried
+
+- We validated the LLM results/ classifications. We found the LLM will summarise irrelevant text from headers, footers that were not apparent in the WET files 
+
+![alt text](<docs/postcodes organisations.jpg>)
+
+- We mapped the postcodes associated with organisation in government. 
+
+
 
 # What did we learn?
 
