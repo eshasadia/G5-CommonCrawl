@@ -1,3 +1,7 @@
+# script to scrape html elements from active website
+## used to get heading removed from WET files
+## author: E Chern Wong 
+
 import time
 import random
 import requests
