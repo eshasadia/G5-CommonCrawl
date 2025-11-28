@@ -17,13 +17,8 @@ Presentation: https://livewarwickac-my.sharepoint.com/:p:/g/personal/u5552013_li
 
 ## test embedded graph
 
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Embedding Plotly Chart</title>
-</head>
-<body>
-  <h2>My Plotly Chart</h2>
-  <iframe src="docs/example plot.html" width="800" height="600" style="border:none;"></iframe>
-</body>
-</html>
+# My Report
+
+Here’s the interactive chart:
+
+<iframe src="docs/example plot.html" width="800" height="600" style="border:none;"></iframe>
