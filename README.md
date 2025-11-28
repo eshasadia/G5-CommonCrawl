@@ -20,7 +20,7 @@
 
 ## Test embedded graph
 
-# My Report
+## My Report
 
 Here’s the interactive chart:
 
