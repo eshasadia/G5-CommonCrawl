@@ -1,4 +1,4 @@
-# Bristol common crawl datathon repository (G5-CommonCrawl)
+# Bristol CommonCrawl Datathon Repository
 
 # Requires
 - python for data wrangling and classification
@@ -10,15 +10,15 @@
 
 
 
-## data
+## Data
 
 - `news_filtered_xxxx.csv`: Filtered file from 2024/2025 crawl. Filtered to urls that contain `gov.uk/government/news`. Produced by code in `FilterURL.py` where polars is used to check url first before reading in lines.
 
-- `policy_classes_xxx`: Contents classified but using a LLM (Gemma 3) on VM
+- `policy_classes_xxx`: Contents classified but using a LLM (Gemma 3) on VM.
 
-- `\classified`: Contents classified but this time using a LLM on Groq
+- `\classified`: Contents classified but this time using a LLM on Groq.
 
-## test embedded graph
+## Test embedded graph
 
 # My Report
 
