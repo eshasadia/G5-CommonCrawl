@@ -16,7 +16,7 @@
 
 - `policy_classes_xxx`: Contents classified but using a LLM (Gemma 3) on VM.
 
-- `\classified`: Contents classified but this time using a LLM on Groq.
+- `\classified`: Contents classified but this time using a LLM on Groq (llama3.1) on colab.
 
 ## Test embedded graph
 
