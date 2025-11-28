@@ -1,7 +1,12 @@
 # Bristol CommonCrawl Datathon Repository
+
 ## Problem Statement
+This is a cache of web data, which contains all the UK governmental webpages (.gov.uk) that have been archived by the Common Crawl in two points in time: February-March 2024 (part 1 and part 2 same as Problem 4) and October 2025. Identifying changes in a specific policy domain associated with the new government elected in July 2024.
 
 ## Team
+Meng Le Zhang, Aditi Dutta, Esha Sadia Nasir, Mariam Cook, Helena Byrne, E Chern Wong.
+
+
 ## Requires
 - Python for data wrangling and classification.
 - R for some data visualisation and some proto-type scripts (e.g. making API calls to LLMs).
