@@ -6,7 +6,6 @@ library(jsonlite)
 ## readi in the filtered file 
 
 news_df = 'data/news_filtered_2025.csv' %>% read_csv
-
 # Set your Groq API key as an environment variable first:
 # Sys.setenv(GROQ_API_KEY = "your_api_key_here")
 
@@ -32,32 +31,44 @@ Instructions:
    - Informational (e.g., public awareness campaigns, nudging)
    - Other (e.g., strategic plans, consultations)
 3. If relevant, add a secondary classification (e.g., both welfare and legislative).
-4. Output ONLY a structured CSV table with the following columns:
-   - Policy Instrument
-   - Main Classification
-   - Secondary Classification
+4. Output ONLY a json with the following keys:
+   - Policy.Instrument
+   - Main.Classification
+   - Secondary.Classification
+   - Orig.url
 5. Do not include any explanation, commentary, or text outside the table.
+6. Add the orig.url in orig.url
 
 This is the content to inspect:"
 
+
+## pick a line
+this_line = 3
 
 body <- toJSON(list(
   model = "llama-3.1-8b-instant",   # Example Groq model
   messages = list(
     list(role = "system", content = "You are a helpful assistant."),
     list(role = "user", content = 
-    prompt_classifiy %>% paste(news_df$content[2])
+    prompt_classifiy %>% 
+      paste(news_df$content[this_line]) %>%
+      paste("orig.url =", news_df$url[this_line])
+    
     )
 
   )
 ), auto_unbox = TRUE)
 
 res <- POST(url, headers, body = body)
-res
+
 # Parse response
 parsed <- content(res, as = "parsed", type = "application/json")
 cat(parsed$choices[[1]]$message$content)
-parsed
+cat(parsed$choices[[1]]$message$content, file = 'test.json') 
+parsed$choices[[1]]$message$content
+
+messy_string = cat(parsed$choices[[1]]$message$content) %>% capture.output()
+
 
 
 ## Groq uses a common open ai structure:
