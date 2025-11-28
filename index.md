@@ -74,4 +74,4 @@ We also human validated the LLM results/ classifications. We found XXX
 
 # What did we learn?
 
-- The raw files are very large -- we used `polars` library to 
+- The raw files are very large -- we used `polars` library to only read in read specific lines of the data that match our subdomain url.
