@@ -1,11 +1,16 @@
-# Bristol common crawl datathon repository (G5-CommonCrawl)
+# Bristol CommonCrawl Datathon
 
-We are a group of data scientists at a datathon using commoncrawl data to solve a problem:
+# Problem Statement
+This is a cache of web data, which contains all the UK governmental webpages (.gov.uk) that have been archived by the Common Crawl in two points in time: February-March 2024 (part 1 and part 2 same as Problem 4) and October 2025. Identify changes in a specific policy domain associated with the new government elected in July 2024.
 
-> This is a cache of web data, which contains all the UK governmental webpages (.gov.uk) that have been archived by the Common Crawl in two points in time: February-March 2024 (part 1 and part 2 same as Problem 4) and October 2025. Identify changes in a specific policy domain associated with the new government elected in July 2024.
+# Team
+We are a group of data scientists at a datathon using commoncrawl data to solve a problem
+
+
 
 This repository contains all our code.
 
+# Methods
 To tackle the problem, we first:
 - Targeted our searched. We had 2.4 million website entries in the raw WET file. To look at policies, we explicitly filtered our data to website in the `gov.uk/government/news` subdomain. This is where new policies are announced. This gives us roughly to 3000 webpages. 
 
